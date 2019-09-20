@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/
 venue: "CU Boulder, Computer Science"
-date: 2019-09=01
+date: 2019-09-01
 location: "Boulder, CO"
 ---
 
