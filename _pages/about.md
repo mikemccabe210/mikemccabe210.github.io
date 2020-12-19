@@ -12,7 +12,7 @@ My name is Michael and I am a second year Ph.D. student at the University of Col
 
 My research interests are broadly in machine learning and optimization. I enjoy investigating ways to learn from new types of data or developing algorithms that are especially data efficient for certain classes of problems. Right now, I'm especially interested in ML for physics-driven systems where we have prior knowledge of system behavior in the form of PDEs, invariances, or conservation laws. 
 
-Outside of work, I enjoy climbing, running, and reading. 
+Outside of work, I do a lot of climbing, running, and reading. 
 
 News
 ------
