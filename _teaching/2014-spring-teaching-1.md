@@ -1,5 +1,5 @@
 ---
-title: "Teaching experience 1"
+title: "GSS for CSCI-4831/7000: Data Science Projects"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/
@@ -8,5 +8,5 @@ date: 2019-09-01
 location: "Boulder, CO"
 ---
 
-GSS for CSCI-4831/7000
+
 
