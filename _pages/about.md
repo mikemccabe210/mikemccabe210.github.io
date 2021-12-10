@@ -16,5 +16,6 @@ Outside of work, I do a lot of climbing, running, and reading.
 
 News
 ------
+* 2021/9/28 - The updated version of our earlier workshop paper, now titled, "Learning to Assimilate in Chaotic Dynamical Systems" was accepted to NeurIPS 2021.
 * 2020/11/03 - Our paper on "Using Differentiable Physics for Self-supervised Assimilation of Chaotic Dynamical Systems" was accepted to the Workshop on Differentiable Vision, Graphics, and Physics at NeurIPS 2020. 
 * 2020/02/27 - Presented on "Data Science in the Healthcare Industry" at CSU's Data Science Seminar.
