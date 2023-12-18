@@ -16,6 +16,7 @@ Outside of work, I do a lot of climbing, running, and reading.
 
 News
 ------
+* 2023/12/18 - [(MPP)](https://arxiv.org/abs/2310.02994) won best paper at the NeurIPS 2023 Workshop on AI for Science!
 * 2023/10/09 - Released [work](https://arxiv.org/abs/2310.02994) on multiple physics pretraining with the [PolymathicAI](https://polymathic-ai.org/) collaboration to arxiv!
 * 2023/06/22 - Released joint [work](https://arxiv.org/abs/2306.10619) with Peter and Shashank from LBL on stability in autoregressive neural operators on arxiv!
 * 2022/5/10 - Excited to be working with Lawrence Berkeley National Lab on deep learning based weather models this summer!
