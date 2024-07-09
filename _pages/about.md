@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-My name is Michael and I am a final year Ph.D. student at the University of Colorado, Boulder working under Prof. Jed Brown. Prior to beginning my Ph.D. I worked as a Data Scientist in industry for several years where I had the opportunity to work on a range of problems across the healthcare, financial services, and public sectors.
+My name is Michael and I am a research engineer on the [Polymathic team](https://polymathic-ai.org/) at the [Flatiron Institute](https://www.simonsfoundation.org/people/michael-mccabe/). I received my Ph.D. from the University of Colorado, Boulder working under Prof. Jed Brown on machine learning for computational physics where I worked on problems in data assimilation, dynamics modeling, and large-scale deep learning. Prior to beginning my Ph.D. I worked as a Data Scientist in industry where learned to apply machine learning to concrete problems across the healthcare, financial, and energy sectors. 
 
-My research interests are broadly in machine learning and optimization. I enjoy investigating ways to learn from new types of data or developing algorithms that are especially data efficient for certain classes of problems. Right now, I'm especially interested in ML for physics-driven systems where we have prior knowledge of system behavior in the form of PDEs, invariances, or conservation laws. 
+My research interests are broadly in machine learning and optimization. I like digging into ideas that are coming into prominence and finding connections to better understood tools. Then using those connections to learn from new types of data or develop algorithms that are especially data efficient for certain classes of problems. Right now, I'm especially interested in ML for physics-driven systems where we have prior knowledge of system behavior in the form of PDEs, invariances, or conservation laws. 
 
 Outside of work, I do a lot of climbing, running, and reading. 
 
