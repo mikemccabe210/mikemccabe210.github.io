@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Michael McCabe's Site"
+title                    : "Michael McCabe"
 title_separator          : "-"
 name                     : &name "Michael McCabe"
 description              : &description "personal description"
