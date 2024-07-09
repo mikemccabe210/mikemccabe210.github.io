@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Michael McCabe"
   avatar           : "mepicture.jpg"
-  bio              : "I am a Ph.D. student at the University of Colorado studying Machine Learning and Scientific Computing in the PhyPID group under Prof. Jed Brown"
-  location         : "Boulder, CO"
+  bio              : "I am a researcher at the Flatiron Institute working on deep learning for the physical sciences."
+  location         : "New York, NY"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=SMXfsHYAAAAJ&hl=en"
-  email            : "michael.mccabe@colorado.edu"
+  email            : "michael.mccabe@flatironinstitute.org"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
