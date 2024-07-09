@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Michael McCabe's PhD Site"
+title                    : "Michael McCabe's Academic Site"
 title_separator          : "-"
 name                     : &name "Michael McCabe"
 description              : &description "personal description"
